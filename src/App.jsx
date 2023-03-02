@@ -34,7 +34,7 @@ function App() {
             </div>
 
             <div className="opacity-75 italic">
-              By suscribing, you agree with out Terms of Service and Privacy Policy.
+              By suscribing, you agree with our Terms of Service and Privacy Policy.
             </div>
         </form>
       </main>
