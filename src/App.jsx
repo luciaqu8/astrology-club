@@ -16,8 +16,7 @@ function App() {
         <p className="text-lg md:text-2xl m-5 p-5">Subscribe to our newsletter to learn everything about your birth chart!</p>
 
         <form 
-          action="index.html" 
-          method="post" 
+          href="../index.html"
           id="astrology-club" 
           name="astrology-name" >
 
@@ -44,9 +43,9 @@ function App() {
         <p>Built with ❤️</p>
 
         <div className="flex -mx-6">
-          <a href="index.html" className="mx-3 hover:opacity-80 duration-150">About us</a>  |
-          <a href="index.html" className="mx-3 hover:opacity-80 duration-150">Privacy</a>   |
-          <a href="index.html" className="mx-3 hover:opacity-80 duration-150">Contact</a>
+          <a href="../index.html" className="mx-3 hover:opacity-80 duration-150">About us</a>  |
+          <a href="../index.html" className="mx-3 hover:opacity-80 duration-150">Privacy</a>   |
+          <a href="../index.html" className="mx-3 hover:opacity-80 duration-150">Contact</a>
         </div>
       </footer>
     </div>
